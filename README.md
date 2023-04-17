@@ -45,5 +45,5 @@ Basic concepts of pose estimation are,
 
 #### author
 
-- Kunal Bhashkar
-- bhashkar.brand@gmail.com
+- Anurag Chowdhury
+- anuragchowdhury19@gmail.com
